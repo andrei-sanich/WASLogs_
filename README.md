@@ -1,1 +1,1 @@
-# WASLogs_
+Статистика по логам WebSphere Application Server
