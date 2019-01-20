@@ -1,1 +1,2 @@
-Статистика по логам WebSphere Application Server
+Настольное приложение для вывода статистики по логам WebSphere Application Server.
+Tkinter
